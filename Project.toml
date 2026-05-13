@@ -1,6 +1,6 @@
 name = "TOGMoveOctahedron"
 uuid = "6c9fa5d0-0542-430f-82c2-cd8289f49ee2"
-version = "1.0.0"
+version = "2.0.0"
 authors = ["1m1 <imi@1m1.io>"]
 
 [deps]
